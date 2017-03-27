@@ -1,4 +1,4 @@
-﻿<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
+<%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
 
 <!DOCTYPE html>
 
@@ -28,11 +28,14 @@
 				<div class="navigation"> 
 				
 					<div class="navbar navbar-fixed-top">
+                       
 			    		<div class="navbar-inner">
 			          		<a class="btn btn-navbar btnOverlay" data-toggle="collapse" data-target=".nav-collapse">
 			          		</a>
 			          		<div class="nav-collapse collapse">
+                                   <img src="img/infoSecCookieLogo/InfoSecCookiesSmaller.png" />
 			            		<ul class="nav">
+
 									<li><a href="#" class="home">Home</a></li>
                                     <li><a href="#" class="about">Calendar</a></li>
                                     <li><a href="#" class="portfolio">Blog</a></li>

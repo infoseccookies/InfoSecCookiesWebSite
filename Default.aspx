@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="VB" MasterPageFile="~/MasterPage.master" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
+<%@ Page Title="" Language="VB" MasterPageFile="~/MasterPage.master" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
 
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
@@ -10,7 +10,7 @@
   <!DOCTYPE html>
 	<!-- start: Meta -->
 	<meta charset="utf-8"/>
-	<meta name="description" content="Essentia Responsive Bootstrap Theme by Bootstrap Master"/>
+	<meta name="description" content="InfoSecCookies"/>
 	<meta name="keywords" content="Template, Theme, web, html5, css3, Bootstrap" />
 	<meta name="author" content="Łukasz Holeczek from creativeLabs"/>
 	<!-- end: Meta -->
@@ -181,11 +181,28 @@
 
 
                         <h7>
-                            We continuously seek between building a network and defending it. For over 4 years, we’ve studied at Cal Poly Pomona, we are dedicated to help business craft honest, impactful, and knowledgeable employees through strategy, projects, education, and self motivated projects.
+                            We continuously seek between building a network and defending it. For over 4 years, we studied at Cal Poly Pomona
+                        <br />  
+                            <br /> 
+                            </h7>
+                    <h8>
+                            Dedicated to help business craft honest, impactful, and knowledgeable employees through strategy, projects, and education
+                      <br />
+                            <br />
+                        </h8>
+                    <h9>
                             Our group is hand picked to provide the right balance of dedication to work to make up for lack of skill.
-                        </h7>
+                        </h9
+
+                    <br />
+                    <br />
+                    <br />
+                    <br /><br />
 
 
+                    <div class="logo">
+                        <img src="/img/InfoSecCookieLogo/InfoSecCookies.png" alt="" />
+                    </div>
                 </div>
                 <!-- end: Row -->
                 <!-- start: Row -->
@@ -193,11 +210,10 @@
                 <div>
                     <br />
                     <br />
-                    <h7>
-                        display info sec cookies logo!@! in the center
-                    </h7>
                 </div>
                     <!-- end: Row -->
+
+
                     <!-- start: Row -->
                     <div class="row-fluid">
 
