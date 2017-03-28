@@ -200,6 +200,8 @@ h9{
     text-align: center;
     vertical-align: middle;
 }
+
+
 hr {
   	margin: 20px 0;
   	border: 0;
@@ -325,6 +327,16 @@ header {
 	        box-shadow: 0px 1px 1px rgba(0,0,0,.35);
 }
 
+.logo-img{
+    float: left;
+    position: relative;
+    margin: 10px 15px 15px 10px
+}
+
+.bg-div{
+   background:#333;
+   overflow: hidden;
+}
 
 .nav-collapse.collapse {
     height: auto \9 !important;
