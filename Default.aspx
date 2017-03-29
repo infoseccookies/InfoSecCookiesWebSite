@@ -28,7 +28,7 @@
 	<!-- end: Facebook Open Graph -->
 
     <!-- start: CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet"/>
+        <link href="css/bootstrap.min.css" rel="stylesheet"/>
     <link href="css/bootstrap-responsive.min.css" rel="stylesheet"/>
 	<link href="css/style.css" rel="stylesheet"/>
 	<link href="css/slider1.css" rel="stylesheet"/>
@@ -48,47 +48,6 @@
 </head>
 <body>
 	
-	<!--start: Header -->
-	<header>
-		
-		<!--start: Container -->
-		<div class="container">
-						
-			<!--start: Row -->
-			<div class="row-fluid">
-					
-				<!--start: Navigation -->
-				<div class="navigation"> 
-				
-					<div class="navbar navbar-fixed-top">
-			    		<div class="navbar-inner">
-			          		<a class="btn btn-navbar btnOverlay" data-toggle="collapse" data-target=".nav-collapse">
-			            		menu
-			          		</a>
-			          		<div class="nav-collapse collapse">
-			            		<ul class="nav">
-									<li><a href="#" class="home">Home</a></li>
-                                    <li><a href="#" class="about">Calendar</a></li>
-                                    <li><a href="#" class="portfolio">Blog</a></li>
-                                    <li><a href="#" class="pricing">Projects</a></li>
-									<li><a href="#" class="team">Team</a></li>
-									<li><a href="#" class="contact">Contact</a></li>
-			            		</ul>
-			          		</div>
-			        	</div>
-			      	</div>
-				
-				
-				</div>	
-				<!--end: Navigation -->	
-					
-			</div>
-			<!--end: Row -->
-			
-		</div>
-		<!--end: Container-->			
-			
-	</header>
 	<!--end: Header-->
 	<!-- start: 1st Page - Home -->
 	<div id="home">
@@ -198,11 +157,12 @@
                     <br />
                     <br />
                     <br /><br />
-
-                    </div>
+                
+           </div>
                 </div>
-                    <div id="logo"> 
-                   <img src="img/InfoSecCookieLogo/InfoSecCookies.png" alt="" />
+        <div>
+                   <img class="logo" src="img/InfoSecCookieLogo/InfoSecCookiesFaded.png" alt=""/>
+            </div>
                 <!-- end: Row -->
                 <!-- start: Row -->
 

@@ -334,7 +334,7 @@ header {
 }
 
 .bg-div{
-   background:#333;
+   background: black;
    overflow: hidden;
 }
 
@@ -430,7 +430,7 @@ header {
 }
 
 .navbar .nav > li > a {
-	color: #414141;
+	color: #ffffff;
 	border-top: 0px solid transparent;
 	text-shadow: none;
 	font-size: 14px;
@@ -447,7 +447,7 @@ header {
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
   	background: #080808 !important;		
-  	color: #fff;
+  	color: #bfa67a;
 }
 
 .navbar .nav > .active > a,
@@ -2061,11 +2061,16 @@ li.current {
 }
 
 .logo{   
-    display: block;
-    padding-left: 1500px;
- 	 position: absolute;
+    height: 250px;
+    vertical-align: central;
+padding-left: 300px;
 }
-.check_list li {background: url(../img/icons/list/red/list_check.png) no-repeat 0% 50%; padding: 0 0 0 18px;}
+
+.logo-nav-bar{
+
+float: left;
+}
+.check_list li {background: url(../ /icons/list/red/list_check.png) no-repeat 0% 50%; padding: 0 0 0 18px;}
 .plus_list  li {background: url(../img/icons/list/red/list_plus.png) no-repeat 0% 50%; padding: 0 0 0 18px;}
 .minus_list  li {background: url(../img/icons/list/red/list_minus.png) no-repeat 0% 50%; padding: 0 0 0 18px;}
 .star_list  li {background: url(../img/icons/list/red/list_star.png) no-repeat 0% 50%; padding: 0 0 0 16px;}
