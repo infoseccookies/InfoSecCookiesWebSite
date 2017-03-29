@@ -2060,10 +2060,10 @@ li.current {
 	margin: 5px 0;
 }
 
-.logo{
-    vertical-align: middle;
+.logo{   
     display: block;
-    padding-left: 175px;
+    padding-left: 1500px;
+ 	 position: absolute;
 }
 .check_list li {background: url(../img/icons/list/red/list_check.png) no-repeat 0% 50%; padding: 0 0 0 18px;}
 .plus_list  li {background: url(../img/icons/list/red/list_plus.png) no-repeat 0% 50%; padding: 0 0 0 18px;}

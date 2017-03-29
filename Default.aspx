@@ -192,18 +192,17 @@
                         </h8>
                     <h9>
                             Our group is hand picked to provide the right balance of dedication to work to make up for lack of skill.
-                        </h9
+                        </h9>
 
                     <br />
                     <br />
                     <br />
                     <br /><br />
 
-
-                    <div class="logo">
-                        <img src="/img/InfoSecCookieLogo/InfoSecCookies.png" alt="" />
                     </div>
                 </div>
+                    <div id="logo"> 
+                   <img src="img/InfoSecCookieLogo/InfoSecCookies.png" alt="" />
                 <!-- end: Row -->
                 <!-- start: Row -->
 
