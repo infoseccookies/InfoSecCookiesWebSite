@@ -272,7 +272,7 @@
 /* Second Slide */
 .demo-1 .bg-2 .sl-slide-inner,
 .demo-1 .bg-2 .sl-content-slice {
-	background-image: url(../img/MainLandPics/326H.jpg);
+	background-image: url(../img/MainLandingPics/326H.jpg);
     background-size: 100%;
 }
 
@@ -317,7 +317,7 @@
 /* Forth Slide */
 .demo-1 .bg-4 .sl-slide-inner,
 .demo-1 .bg-4 .sl-content-slice {
-	background-image:url(../img/cookies.jpeg);
+	background-image:url(../img/MainLandingPics/cookies.jpeg);
         background-size: 100%;
 }
 
@@ -343,7 +343,7 @@
 /* Fifth Slide */
 .demo-1 .bg-5 .sl-slide-inner,
 .demo-1 .bg-5 .sl-content-slice {
-	background-image:url(../img/doggodoesthing.jpg);
+	background-image:url(../img/MaainLadningPics/doggodoesthing.jpg);
         background-size: 100%;
 }
 
