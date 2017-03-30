@@ -157,12 +157,14 @@
                     <br />
                     <br />
                     <br /><br />
-                
-           </div>
-                </div>
+                            
+               
+             
         <div>
                    <img class="logo" src="img/InfoSecCookieLogo/InfoSecCookiesFaded.png" alt=""/>
             </div>
+                 </div>
+                </div>  
                 <!-- end: Row -->
                 <!-- start: Row -->
 
