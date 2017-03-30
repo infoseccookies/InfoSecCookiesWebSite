@@ -161,7 +161,7 @@
                
              
         <div>
-                   <img class="logo" src="img/InfoSecCookieLogo/InfoSecCookiesFaded.png" alt=""/>
+                 <span> <img class="logo" src="img/InfoSecCookieLogo/InfoSecCookiesFaded.png" alt=""/></span>
             </div>
                  </div>
                 </div>  
@@ -233,7 +233,7 @@
                 <!-- start: Page Title -->
                 <div id="page-title">
                     <div id="page-title-inner">
-                        <h2><span>Portfolio</span></h2>
+                        <h2><span>Blog</span></h2>
                     </div>
                 </div>
                 <!-- end: Page Title -->
@@ -252,15 +252,15 @@
                     <ul class="option-set" data-option-key="filter">
                         <li><a href="#filter" class="selected" data-option-value="*">All</a></li>
                         <li>/</li>
-                        <li><a href="#filter" data-option-value=".admin">Admin</a></li>
+                        <li><a href="#filter" data-option-value=".admin">Security</a></li>
                         <li>/</li>
-                        <li><a href="#filter" data-option-value=".dashboard">Dashboard</a></li>
+                        <li><a href="#filter" data-option-value=".dashboard">Networking</a></li>
                         <li>/</li>
                         <li><a href="#filter" data-option-value=".website">Website</a></li>
                         <li>/</li>
-                        <li><a href="#filter" data-option-value=".html5">HTML5</a></li>
+                        <li><a href="#filter" data-option-value=".html5">Certifications</a></li>
                         <li>/</li>
-                        <li><a href="#filter" data-option-value=".css3">CSS3</a></li>
+      <!--                  <li><a href="#filter" data-option-value=".css3">CSS3</a></li> -->
                         <li>/</li>
                         <li><a href="#filter" data-option-value=".responsive">Responsive</a></li>
                     </ul>

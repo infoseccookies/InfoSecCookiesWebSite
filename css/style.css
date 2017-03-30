@@ -2063,9 +2063,9 @@ li.current {
 .logo{   
     max-height: 300px !important;
     height: auto !important;
-    margin: auto 200px !important; /* when i remove this it autosizes, however it isnt centered on big image*/
+  /*  margin: auto 200px !important; /* when i remove this it autosizes, however it isnt centered on big image*/
     max-width: 100% !important;
-    justify-content: center !important;
+        padding: 40px 20px;
 }
 
 .logo-nav-bar{

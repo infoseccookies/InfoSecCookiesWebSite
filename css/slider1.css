@@ -265,14 +265,14 @@
 /* First Slide */
 .demo-1 .bg-1 .sl-slide-inner,
 .demo-1 .bg-1 .sl-content-slice {
-    background-image: url(../img/onepage_slide_2.jpg);
+    background-image: url(../img/MainLandingPics/onepage_slide_2.jpg);
     background-size: 100%;
 }
 
 /* Second Slide */
 .demo-1 .bg-2 .sl-slide-inner,
 .demo-1 .bg-2 .sl-content-slice {
-	background-image: url(../img/326H.jpg);
+	background-image: url(../img/MainLandPics/326H.jpg);
     background-size: 100%;
 }
 
@@ -288,7 +288,7 @@
 /* Third Slide */
 .demo-1 .bg-3 .sl-slide-inner,
 .demo-1 .bg-3 .sl-content-slice {
-    background-image: url("../img/header.jpg");
+    background-image: url("../img/MainLandingPics/TrainingAndEduation.jpg");
     background-size: 100%;
 }
 
