@@ -161,7 +161,7 @@
                
              
         <div>
-                 <span> <img class="logo" src="img/InfoSecCookieLogo/InfoSecCookiesFaded.png" alt=""/></span>
+                 <p style="text-align:center"><span><img class="logo" src="img/InfoSecCookieLogo/InfoSecCookiesFaded.png" alt=""/></span></p>
             </div>
                  </div>
                 </div>  

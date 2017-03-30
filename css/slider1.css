@@ -13,7 +13,7 @@
 
 .demo-2 .sl-slider-wrapper {
 	width: 100%;
-	height: 600px;
+	height: 100%;
 	overflow: hidden;
 	position: relative;
 }
@@ -289,7 +289,7 @@
 .demo-1 .bg-3 .sl-slide-inner,
 .demo-1 .bg-3 .sl-content-slice {
     background-image: url("../img/MainLandingPics/TrainingAndEduation.jpg");
-    background-size: 100%;
+    background-size: 110%;
 }
 
 
@@ -343,7 +343,7 @@
 /* Fifth Slide */
 .demo-1 .bg-5 .sl-slide-inner,
 .demo-1 .bg-5 .sl-content-slice {
-	background-image:url(../img/MaainLadningPics/doggodoesthing.jpg);
+	background-image:url(../img/MainLandingPics/doggodoesthing.jpg);
         background-size: 100%;
 }
 
