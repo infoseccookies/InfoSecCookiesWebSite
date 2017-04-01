@@ -174,41 +174,44 @@
                 </div>
                     <!-- end: Row -->
 
-
+         
                     <!-- start: Row -->
-                    <div class="row-fluid">
-
-                        <div class="span4">
+                    <div class="row-fluid" style="padding:0 !important;">
+                        
+                        <div class="span4 color darker black">
                             <div class="icons-box">
                                 <i class="fa-icon-beaker"></i>
                                 <h3>Research</h3>
-                                <p>
+                                <p style="color:#929292;">
                                     Currently builing up our infastructre our end goal is to implment SDN on an internal network and attack it.
                                 </p>
                                 <div class="clearfix"></div>
                             </div>
                         </div>
-                        <div class="span4">
+                        
+                        <div class="span4 color dark gray">
+           
                             <div class="icons-box">
                                 <i class="fa-icon-thumbs-up"></i>
                                 <h3>Web</h3>
-                                <p>
+                                <p style="color:#929292;">
                                     Creative and resourceful students here. InfoSecCookies is not for the faint of heart or those who have a dull mind.
                                 </p>
                                 <div class="clearfix"></div>
                             </div>
                         </div>
-                        <div class="span4">
+                        <div class="span4 color grey">
                             <div class="icons-box">
                                 <i class="fa-icon-heart-empty"></i>
                                 <h3>Responsive</h3>
-                                <p>
+                                <p style="color:#929292;">
                                     Created a blog to show just eaxaclt our knowledge and have it be a potential windows so our employer may know our work.
                                 </p>
                                 <div class="clearfix"></div>
                             </div>
                         </div>
                     </div>
+            
                     <!-- end: Row -->
 
                     <div class="clearfix"></div>

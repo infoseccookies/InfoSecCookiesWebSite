@@ -100,6 +100,17 @@
 	background: #414141;
 }
 
+.color.darker.black {
+    background: #1b1b1b;
+}
+
+.color.dark.gray{
+    background: #212121;
+}
+
+.color.grey{
+    background: #292929;
+}
 .color.yellow {
 	background: #ffeb41;
 	color: #414141;
@@ -141,6 +152,7 @@ h2 {
 h3 {
   font-size: 18px;
   line-height: 32px;
+  color: white;
 }
 
 h4 {
