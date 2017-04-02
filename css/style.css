@@ -144,9 +144,19 @@ h1 {
   line-height: 40px;
 }
 
+/* Front Page Fonts First is the big sone*/
 h2 {
-  font-size: 20px;
-  line-height: 40px;
+  font-size: 56px !important;
+  font-weight: 700 !important;
+  font-family: "Montserrat", sans-serif !important;
+  margin-top: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: 56px !important;
+  color: #fff !important;
+  margin-bottom: 10px;
+  vertical-align: middle;
+  text-align: center;
 }
 
 h3 {
@@ -199,7 +209,7 @@ h8 {
 
 }
 
-h9{
+h9 {
         font-size: 18px;
     line-height: 1.5;
     line-height: 24px;
@@ -213,6 +223,18 @@ h9{
     vertical-align: middle;
 }
 
+/*This one is for the little paragraf after it*/
+h10{
+    color: #fff !important;
+     font-family: "Montserrat", sans-serif !important;
+     font-size: 20px !important;
+     letter-spacing: 0.05em !important;
+     line-height: 1.5 !important;
+     text-align:center !important;
+     text-size-adjust: 100% !important;
+     width: 100px !important;
+
+}
 
 hr {
   	margin: 20px 0;
@@ -974,7 +996,7 @@ html[xmlns] .slides {display: block;}
 
 .icons-box {
 	text-align: center;
-	padding: 20px 10px 10px 10px;
+	padding: 60px 10px 50px 10px;
 }
 
 .icons-box h3 {

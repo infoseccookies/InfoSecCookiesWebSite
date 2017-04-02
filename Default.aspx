@@ -23,7 +23,7 @@
 	<meta property="og:title" content=""/>
 	<meta property="og:description" content=""/>
 	<meta property="og:type" content=""/>
-	<meta property="og:url" content=""/>
+	<meta property="og:url" content=""/>d
 	<meta property="og:image" content=""/>
 	<!-- end: Facebook Open Graph -->
 
@@ -45,8 +45,7 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-</head>
-<body>
+
 	
 	<!--end: Header-->
 	<!-- start: 1st Page - Home -->
@@ -56,46 +55,49 @@
 
 	        <div id="slider" class="sl-slider-wrapper">
 
-				<div class="sl-slider">
+				<div class="sl-slider" >
 
-					<div class="sl-slide bg-1" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+					<div class="sl-slide bg-1" >
 						<div class="sl-slide-inner">
-							<div class="deco" data-icon="h"></div>
+
 							<h2>Game Plan</h2>
-							<blockquote><p>A dedicated group from Cal Poly Pomona who wish to further their education outside the class room </p><cite>InfoSecCookies</cite></blockquote>
-						</div>
+							<blockquote><h10>A dedicated group from Cal Poly Pomona who wish to further</h10>
+                                <br />
+                                <h10>their education outside the class room </h10>
+							</blockquote>
+                            </div>
 					</div>
 
-					<div class="sl-slide bg-2" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
+					<div class="sl-slide bg-2">
 						<div class="sl-slide-inner">
-							<div class="deco" data-icon="q"></div>
+
 							<h2>Areas of Interest</h2>
-							<blockquote><p>Gradutes focused on IT blue-team with an speclial interest of devloping a red-team.</p><cite>Tyler Roth</cite></blockquote>
+							<blockquote><h10>Gradutes focused on IT blue-team with an speclial interest of devloping a red-team.</h10></blockquote>
 						</div>
 					</div>
 
-					<div class="sl-slide bg-3" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
+					<div class="sl-slide bg-3">
 						<div class="sl-slide-inner">
-							<div class="deco" data-icon="O"></div>
+
 							<h2>Projects</h2>
-							<blockquote><p>Building up our own internal servers, setup of VPN's, Creation of intenionally vulnerable networks and web apps. </p><cite>More to come!</cite></blockquote>
+							<blockquote><h10>Building up our own internal servers, setup of VPN's, Creation of intenionally vulnerable networks and web apps. </h10></blockquote>
 						</div>
 					</div>
 
-					<div class="sl-slide bg-4" data-orientation="vertical" data-slice1-rotation="-5" data-slice2-rotation="25" data-slice1-scale="2" data-slice2-scale="1">
+					<div class="sl-slide bg-4">
 						<div class="sl-slide-inner">
-							<div class="deco" data-icon="I"></div>
+
 							<h2>Dont be afraid to contact us!</h2>
-							<blockquote><p>We wont bite and who knows you might get some cookies out of it</p><cite>k10Trusty</cite></blockquote>
+							<blockquote><h10>We wont bite and who knows you might get some cookies out of it</h10></blockquote>
 						</div>
 					</div>
 
-					<div class="sl-slide bg-5" data-orientation="horizontal" data-slice1-rotation="-5" data-slice2-rotation="10" data-slice1-scale="2" data-slice2-scale="1">
+					<div class="sl-slide bg-5">
 						<div class="sl-slide-inner">
-							<div class="deco" data-icon="t"></div>
+
 							<h2>Take Action</h2>
-							<blockquote><p>The weakest soul, knowing its own weakness, and believing this truth - that strength can only be developed by effort and practice, will at once begin to exert itself, and adding effort to effort,
-                                 patience to patience, and strength to strength, will never cease to develop, and will at last grow divinely strong. .</p><cite>James Allen</cite></blockquote>
+							<blockquote><h10>The weakest soul, knowing its own weakness, and believing this truth - that strength can only be developed by effort and practice, will at once begin to exert itself, and adding effort to effort,
+                                 patience to patience, and strength to strength, will never cease to develop, and will at last grow divinely strong. .</h10></blockquote>
 						</div>
 					</div>
 				</div><!-- /sl-slider -->
@@ -173,12 +175,19 @@
                     <br />
                 </div>
                     <!-- end: Row -->
-
+            <br />
+             <br />
+             <br />
+             <br />
+             <br />
+             <br />
+             <br />
+             <br />
          
                     <!-- start: Row -->
-                    <div class="row-fluid" style="padding:0 !important;">
+                    <div class="row-fluid">
                         
-                        <div class="span4 color darker black">
+                        <div class="span4 color darker black" style="width: 33.333% !important;">
                             <div class="icons-box">
                                 <i class="fa-icon-beaker"></i>
                                 <h3>Research</h3>
@@ -189,7 +198,7 @@
                             </div>
                         </div>
                         
-                        <div class="span4 color dark gray">
+                        <div class="span4 color dark gray" style="margin: 0px; width: 33.333% !important;">
            
                             <div class="icons-box">
                                 <i class="fa-icon-thumbs-up"></i>
@@ -200,12 +209,12 @@
                                 <div class="clearfix"></div>
                             </div>
                         </div>
-                        <div class="span4 color grey">
+                        <div class="span4 color grey" style="margin: 0px; width: 33.333% !important;">
                             <div class="icons-box">
                                 <i class="fa-icon-heart-empty"></i>
                                 <h3>Responsive</h3>
                                 <p style="color:#929292;">
-                                    Created a blog to show just eaxaclt our knowledge and have it be a potential windows so our employer may know our work.
+                                    Created a blog to showcase our knowledge and have it be a widnow for employers to know our work.
                                 </p>
                                 <div class="clearfix"></div>
                             </div>
@@ -262,10 +271,10 @@
                         <li><a href="#filter" data-option-value=".website">Website</a></li>
                         <li>/</li>
                         <li><a href="#filter" data-option-value=".html5">Certifications</a></li>
+      <!--                  <li>/</li>
+                        <li><a href="#filter" data-option-value=".css3">CSS3</a></li> 
                         <li>/</li>
-      <!--                  <li><a href="#filter" data-option-value=".css3">CSS3</a></li> -->
-                        <li>/</li>
-                        <li><a href="#filter" data-option-value=".responsive">Responsive</a></li>
+                        <li><a href="#filter" data-option-value=".responsive">Responsive</a></li> -->
                     </ul>
                 </div>
                 <!-- start: Services -->
@@ -480,16 +489,17 @@
 	<!-- end: 4th Page - Pricing Tables -->
 	
 	
-	<!-- start: 5th Page - About -->
+ <!-- 
+	<!-- start: 5th Page - About  add end comment
 	<div id="about" class="color yellow">
 		
-		<!--start: Container -->
+		<!--start: Container add end comment
 		<div class="container">
 
-			<!--start: Wrapper -->
+			<!--start: Wrapper add end comment
 			<div class="wrapper span12">
 
-							<!-- start: Page Title -->
+							<!-- start: Page Title add end comment
 			<div id="page-title">
 
 				<div id="page-title-inner">
@@ -501,12 +511,12 @@
 			</div>
 			<!-- end: Page Title -->				
 		
-			<!--start: Row -->
+			<!--start: Row add end comment
 	    	<div class="row-fluid">
 		
 				<div class="span12">
 					
-					<!-- start: About Us -->
+					<!-- start: About Us add end comment
 					<div id="story">
 						<h3>Our Story</h3>
 						<p>
@@ -522,9 +532,9 @@
 							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
 						</p>
 					</div>	
-					<!-- end: About Us -->
+					<!-- end: About Us add end comment
 
-					<!-- start: History -->
+					<!-- start: History add end comment
 					<div id="history">
 						<h3>History</h3>
 						<p>
@@ -540,57 +550,57 @@
 							Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
 						</p>
 					</div>	
-					<!-- end: History -->
+					<!-- end: History add end comment
 
 				</div>
 				
 			</div>
-			<!--end: Row -->
+			<!--end: Row add end comment
 			
-			<!-- start: Row -->
+			<!-- start: Row add end comment
 			<div class="row-fluid">		
 				
 				<div class="span12">
 					
-					<!-- start: Skills -->
+					<!-- start: Skills add end comment
 			       	<h3>Our Skills</h3>
 			       	<ul class="progress-bar">
 						<li>
 			            	<h5>Web Design ( 40% )</h5>
 			          	</li>
 			        	<li>
-			            	<div class="meter"><span style="width: 40%"></span></div><!-- Edite width here -->
+			            	<div class="meter"><span style="width: 40%"></span></div><!-- Edit width here add end comment
 			          	</li>
 						<li>
 			            	<h5>Wordpress ( 80% )</h5>
 			          	</li>
 			          	<li>
-			            	<div class="meter"><span style="width: 80%"></span></div><!-- Edite width here -->
+			            	<div class="meter"><span style="width: 80%"></span></div><!-- Edit width here add end comment
 			          	</li>
 						<li>
 			            	<h5>Branding ( 100% )</h5>
 			          	</li>
 			          	<li>
-			            	<div class="meter"><span style="width: 100%"></span></div><!-- Edite width here -->
+			            	<div class="meter"><span style="width: 100%"></span></div><!-- Edit width here add end comment
 			          	</li>
 			          	<li>
 			            	<h5>SEO Optmization ( 60% )</h5>
 			          	</li>
 						<li>
-			            	<div class="meter"><span style="width: 60%"></span></div><!-- Edite width here -->
+			            	<div class="meter"><span style="width: 60%"></span></div><!-- Edit width here add end comment
 			          	</li>
 			      	</ul>
-			      	<!-- end: Skills -->
+			      	<!-- end: Skills add end comment
 						
 				</div>
 				
 			</div>
-			<!--end: Row -->
+			<!--end: Row add end comment
 			</div>
-			<!-- end: Wrapper -->
+			<!-- end: Wrapper add end comment
 		
 		</div>
-		<!--end: Container -->
+		<!--end: Container add end comment
 		
 	</div>
 	<!-- end: 5th Page - About -->
@@ -894,9 +904,6 @@
 
 	<footer>
 		
-		<div id="copyright">
-			essentia &copy; 2013 creativeLabs. <a href="http://bootstrapmaster.com" alt="Bootstrap Themes">Bootstrap Themes</a> Designed by BootstrapMaster in Poland <img src="img/poland.png" alt="Poland" style="margin-top:-4px">
-		</div>
 		<div id="social">
 			<a href="http://facebook.com/BootstrapMaster" rel="tooltip" title="Facebook" class="facebook">Facebook</a>
 			<a href="http://facebook.com/BootstrapMaster" rel="tooltip" title="Twitter" class="twitter">Twitter</a>
