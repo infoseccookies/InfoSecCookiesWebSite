@@ -1,13 +1,32 @@
 <%@ Master Language="VB" CodeFile="MasterPage.master.vb" Inherits="MasterPage" %>
 
 <!DOCTYPE html>
+	<!-- start: Mobile Specific -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- end: Mobile Specific -->
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-    <link href="css/style.css" rel="stylesheet" />
     <asp:ContentPlaceHolder id="head" runat="server">
     </asp:ContentPlaceHolder>
+    
+            <link href="css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="css/bootstrap-responsive.min.css" rel="stylesheet"/>
+	<link href="css/style.css" rel="stylesheet"/>
+	<link href="css/slider1.css" rel="stylesheet"/>
+	<link href="css/slider2.css" rel="stylesheet"/>
+	<link href="css/slider3.css" rel="stylesheet"/>
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700"/>
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Serif"/>
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Boogaloo"/>
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Economica:700,400italic"/>
+        <link href="css/fancybox.css" rel="stylesheet" />
+        <link href="css/font-awesome-ie7.css" rel="stylesheet" />
+        <link href="css/font-awesome.css" rel="stylesheet" />
+        <link href="css/icons-color.css" rel="stylesheet" />
+        <link href="css/icons.css" rel="stylesheet" />
+        <link href="css/social-icons.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -33,9 +52,10 @@
 			          		<a class="btn btn-navbar btnOverlay" data-toggle="collapse" data-target=".nav-collapse">
 			          		</a>
 			          		<div class="nav-collapse collapse">
-                                   <img src="img/infoSecCookieLogo/InfoSecCookiesSmaller.png" />
+                                  <div class="bg-div">
+                                                                 <img class="logo-nav-bar" src="img/infoSecCookieLogo/InfoSecCookiesSmallerandDarker.png" alt ="" />
 			            		<ul class="nav">
-
+                                                                     
 									<li><a href="#" class="home">Home</a></li>
                                     <li><a href="#" class="about">Calendar</a></li>
                                     <li><a href="#" class="portfolio">Blog</a></li>
@@ -43,6 +63,7 @@
 									<li><a href="#" class="team">Team</a></li>
 									<li><a href="#" class="contact">Contact</a></li>
 			            		</ul>
+                                      </div>
 			          		</div>
 			        	</div>
 			      	</div>
@@ -57,6 +78,9 @@
 		</div>
 		<!--end: Container-->			
 			</header>
+        <div>
+
+        </div>
     </form>
 </body>
 </html>
